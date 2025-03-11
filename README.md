@@ -14,11 +14,7 @@
 ## 🌟 Activity, Experience & Education
 
 
-### 경력
-- 예람 ( 20.09 ~ 23.05)
-    - https://www.igunsul.net/ ( 유지보수, 개편, 데이터크롤링, 백오피스)
-    - https://www.yeramedu.co.kr/ (1인개발)
-    - https://www.ebei.co.kr/ ( 유지보수, 개편, 백오피스 )
+
 
 
 <!--
